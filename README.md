@@ -26,7 +26,7 @@ Mi pequeño personaje es un perrito al cual estará vestido de un reno, la funci
 |Cuter|<img src="https://casafuji.mx/wp-content/uploads/2020/06/XCOLSPC1-Cutter-Economico-2-scaled.jpg" width="80">|1|17|
 |hojas de color|<img src="https://casapapeleramonroy.com/wp-content/uploads/2023/04/401-0-1644438463.jpg" width="80">|5|5|
 |Aguja|<img src="https://cdn11.bigcommerce.com/s-79zue6d3ed/images/stencil/1280w/products/29418/153499/IMP0000012__78245.1686055817.jpg?c=1" width="80">|3|5|
-|Hilo|<img src="https://www.modatelas.com.mx/media/catalog/product/cache/e725c9b5b5e11c455a5388d44f2e456f/5/0/5055005016.jpg)" width="80">|1|15|
+|Hilo|<img src="(https://github.com/user-attachments/assets/40a3433e-b15b-4712-8353-c78e5dedd67a)" width="80">|1|15|
 
 
 

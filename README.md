@@ -1,4 +1,4 @@
-# UNIDAD I: Adquisición y procesamiento de datos Instrumeto_evaluacion
+# UNIDAD I: Adquisición y procesamiento de datos Instrumento_evaluacion
 ## RAMIREZ RAMIREZ LIZETH GDS0641
 
 # Personaje 2024

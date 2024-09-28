@@ -1,12 +1,12 @@
 # UNIDAD I: Adquisición y procesamiento de datos Instrumeto_evaluacion
 ## RAMIREZ RAMIREZ LIZETH GDS0641
 
-# Personaje2024
+# Personaje 2024
 ## Nombre del Personaje 
 DogRino
 ## Integrantes
 Ramirez Ramirez Lizeth GDS0641
-## Explicaión de funcionamiento
+## Explicación de funcionamiento
 Mi pequeño personaje es un perrito al cual estará vestido de un reno, la funcionalidad es que sus cuernos tendrán un adorno de pequeños focos navideños, en la parte de su cola tendrá un Servomotor que hará la simulación del movimiento de ella, junto a Dogrino esta un regalo en donde se encontrará una bocina o una pantalla donde deceara feliz navidad a sus amigos perrunos, todo de acuerdo si la temperatura sea 15° centigrados, este pequeño prototipo se situara en un pequeño cartos donde se encontrará la ESP32.
 ## Materiales a utilizar 
 |   Material   |  Imagen   | Cantidad  | Costo   |

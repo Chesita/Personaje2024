@@ -43,9 +43,6 @@ Mi pequeño personaje es un perrito al cual estará vestido de un reno, la funci
 
 
 
-# Enlace de la similación de Wowki
-https://wokwi.com/projects/410248493131240449
-
 # INSTRUMENTO DE EVALUACIÓN
 
 ## SIMULACIÓN 

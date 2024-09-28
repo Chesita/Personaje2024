@@ -1,4 +1,4 @@
-#UNIDAD I: Adquisición y procesamiento de datos Instrumeto_evaluacion
+# UNIDAD I: Adquisición y procesamiento de datos Instrumeto_evaluacion
 ##RAMIREZ RAMIREZ LIZETH GDS0641
 
 # Personaje2024
@@ -22,22 +22,49 @@ Mi pequeño personaje es un perrito al cual estará vestido de un reno, la funci
 |Tela|<img src="https://i.etsystatic.com/7175486/r/il/ee352b/2308768302/il_570xN.2308768302_cf0g.jpg" width="80">|1|20|
 |Peluche|<img src="https://www.elmundodesofia.mx/cdn/shop/products/IMG_2224.jpg?v=1577488373" width="80">|1|60|
 |Diadema|<img src="https://i.pinimg.com/736x/c7/03/73/c70373d9b1f3477989930e633b2ebd09.jpg" width="80">|1|60|
-|Silicon|<img src="https://ofimart.mx/wp-content/uploads/2021/10/SILICON-LIQUIDO-250ML.webp" width="80">|||
-|Cuter|<img src="https://casafuji.mx/wp-content/uploads/2020/06/XCOLSPC1-Cutter-Economico-2-scaled.jpg" width="80">|||
-|hojas de color|<img src="https://casapapeleramonroy.com/wp-content/uploads/2023/04/401-0-1644438463.jpg" width="80">|||
-|Aguja|<img src="https://cdn11.bigcommerce.com/s-79zue6d3ed/images/stencil/1280w/products/29418/153499/IMP0000012__78245.1686055817.jpg?c=1" width="80">|||
-|Hilo|<img src="https://www.modatelas.com.mx/media/catalog/product/cache/e725c9b5b5e11c455a5388d44f2e456f/5/0/5055005016.jpg)" width="80">|||
+|Silicon|<img src="https://ofimart.mx/wp-content/uploads/2021/10/SILICON-LIQUIDO-250ML.webp" width="80">|3|9|
+|Cuter|<img src="https://casafuji.mx/wp-content/uploads/2020/06/XCOLSPC1-Cutter-Economico-2-scaled.jpg" width="80">|1|17|
+|hojas de color|<img src="https://casapapeleramonroy.com/wp-content/uploads/2023/04/401-0-1644438463.jpg" width="80">|5|5|
+|Aguja|<img src="https://cdn11.bigcommerce.com/s-79zue6d3ed/images/stencil/1280w/products/29418/153499/IMP0000012__78245.1686055817.jpg?c=1" width="80">|3|5|
+|Hilo|<img src="https://www.modatelas.com.mx/media/catalog/product/cache/e725c9b5b5e11c455a5388d44f2e456f/5/0/5055005016.jpg)" width="80">|1|15|
 
 
 
 ## SOFTWARE A UTILIZAR 
 |MicroPayton (Thonny)|4.1.6|
 |Arduino|2.3.2|
-https://drive.google.com/file/d/1OYRBqXpPn9NMwIq7UfQ9wFN7cvusR3zO/view?usp=sharing
-
-
-
 # Dibujo del personaje
-Imagen echa a mano
-Dibujo con software de esición que lo represente
+
+![Imagen de WhatsApp 2024-09-28 a las 00 23 42_2964dc16](https://github.com/user-attachments/assets/a40a51c3-82a1-442a-8bc2-a42f06debd89)
+
+
+![Imagen de WhatsApp 2024-09-28 a las 00 23 42_5e9a2ac0](https://github.com/user-attachments/assets/0de2ad13-4ab3-4834-bf5c-abf9a482ba35)
+
+
+
+
 # Enlace de la similación de Wowki
+https://wokwi.com/projects/410248493131240449
+
+# INSTRUMENTO DE EVALUACIÓN
+
+## SIMULACIÓN 
+https://wokwi.com/projects/410230210139001857
+
+## LINK SIMULACIÓN DEL MUÑECO
+https://wokwi.com/projects/410248493131240449
+
+## LINK DEL DUNCIONAMIENTO DEL INSTRUMENTO DE EVALUACIÓN 
+
+https://drive.google.com/file/d/1RBU1s3Xv8XXFe9seglLCksDMqe9vtcr2/view?usp=sharing
+
+# Capturas de pantalla de los modulos de C
+![Captura de pantalla 2024-09-26 223610](https://github.com/user-attachments/assets/a6870cc1-9775-40ce-8196-85a3548fb732)
+![Captura de pantalla 2024-09-26 224200](https://github.com/user-attachments/assets/cc93d7e4-6001-4263-8e4a-28a87ff4f602)
+![Captura de pantalla 2024-09-26 224051](https://github.com/user-attachments/assets/0dce6770-5766-4b93-aa6e-b2bc61450635)
+![Captura de pantalla 2024-09-26 224011](https://github.com/user-attachments/assets/4f9bccb3-f5e9-4438-9d97-73bd478bdd61)
+![Captura de pantalla 2024-09-26 223926](https://github.com/user-attachments/assets/3a29c210-3b40-4a45-a505-66e87bbb40ed)
+![Captura de pantalla 2024-09-26 223902](https://github.com/user-attachments/assets/c8be3dc7-8edd-4ad3-bf45-c0796d61558b)
+
+
+

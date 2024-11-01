@@ -63,5 +63,14 @@ https://drive.google.com/file/d/1RBU1s3Xv8XXFe9seglLCksDMqe9vtcr2/view?usp=shari
 ![Captura de pantalla 2024-09-26 223926](https://github.com/user-attachments/assets/3a29c210-3b40-4a45-a505-66e87bbb40ed)
 ![Captura de pantalla 2024-09-26 223902](https://github.com/user-attachments/assets/c8be3dc7-8edd-4ad3-bf45-c0796d61558b)
 
+# Capturas de pantallas de los modulos de Python
+![Imagen de WhatsApp 2024-10-31 a las 19 22 42_fe1c20a2](https://github.com/user-attachments/assets/e60eb1f5-4439-42e2-b41c-49da873da69f)
+![Imagen de WhatsApp 2024-10-31 a las 19 22 42_618b843a](https://github.com/user-attachments/assets/05403f23-8c70-4bc5-ab10-c60d81403380)
+![Imagen de WhatsApp 2024-10-31 a las 19 22 42_4d701ebb](https://github.com/user-attachments/assets/cf6e4011-9944-47b5-a3f8-3e7ba8122a62)
+![Imagen de WhatsApp 2024-10-31 a las 19 22 42_68db8b37](https://github.com/user-attachments/assets/a36a5594-f434-43e3-b713-5675eb75872a)
+![Imagen de WhatsApp 2024-10-31 a las 19 22 42_f2bcd43d](https://github.com/user-attachments/assets/020d7ab2-4f00-43fc-9619-ad48db21641f)
+
+
+
 
 
